@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Eres lo mejor de mi vida, te amo mucho mi esposita Milagritos...          Atte: Tu ciruelita que te ama mucho')
+    alert('Mayrita hasme caso')
 });
 
 const noBtn = document.querySelector('#noBtn');
