@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Mayrita hasme caso')
+    alert('Te quiero mucho')
 });
 
 const noBtn = document.querySelector('#noBtn');
