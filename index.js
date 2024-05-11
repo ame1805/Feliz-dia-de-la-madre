@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Te quiero mucho')
+    alert('Eres la mejor mamá del mundo, te quiero muchooo')
 });
 
 const noBtn = document.querySelector('#noBtn');
